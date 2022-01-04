@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I'm Dennis 🤓
 
-Working on 
+🔭 I’m currently working on personal and collaborative projects
 <!--
 **deardevio/deardevio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

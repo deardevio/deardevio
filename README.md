@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Dennis 🤓
+🤓 I'm Dennis
 
 🔭 I’m currently working on personal and collaborative projects
 <!--

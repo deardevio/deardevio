@@ -1,5 +1,5 @@
 ### Hi there 👋 
-🤓 I'm Dennis, a hobbyist developer
+🤓 I'm a hobbyist developer
 
 🔭 I’m currently working on personal and collaborative projects
 <!--
